@@ -18,3 +18,4 @@
 GitHub Actions runs automatically on push.
 Project initialized successfully.
 Project setup complete.
+Task2: 
